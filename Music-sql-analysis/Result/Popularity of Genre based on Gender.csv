@@ -1,0 +1,33 @@
+Genre,Gender,genre_count,genre_percent
+Electronic,Female,38,15.45
+Rock,Female,38,15.45
+Country,Female,35,14.23
+Hip-Hop,Female,34,13.82
+Pop,Female,30,12.20
+R&B,Female,28,11.38
+Classical,Female,26,10.57
+Jazz,Female,17,6.91
+Electronic,Male,37,14.62
+Rock,Male,37,14.62
+Pop,Male,35,13.83
+Country,Male,34,13.44
+Hip-Hop,Male,31,12.25
+Classical,Male,30,11.86
+R&B,Male,26,10.28
+Jazz,Male,23,9.09
+Pop,Non-binary,44,16.60
+R&B,Non-binary,43,16.23
+Country,Non-binary,39,14.72
+Electronic,Non-binary,32,12.08
+Jazz,Non-binary,31,11.70
+Hip-Hop,Non-binary,29,10.94
+Classical,Non-binary,27,10.19
+Rock,Non-binary,20,7.55
+R&B,"Prefer not to say",35,14.83
+Jazz,"Prefer not to say",32,13.56
+Country,"Prefer not to say",31,13.14
+Electronic,"Prefer not to say",30,12.71
+Classical,"Prefer not to say",29,12.29
+Pop,"Prefer not to say",27,11.44
+Hip-Hop,"Prefer not to say",26,11.02
+Rock,"Prefer not to say",26,11.02
