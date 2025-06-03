@@ -1,0 +1,1001 @@
+Age,Gender,Favorite Music Genre,Hours Listening per Day,Preferred Platform,Listening Time,Music While Studying,Mood Improvement (1-5),Plays Instrument,Preference Based on Mood
+21,Male,Classical,3.6,Apple Music,Night,No,3,No,No
+37,Male,Country,1.8,YouTube,All Day,No,3,Yes,Yes
+60,Female,R&B,1.9,Apple Music,Afternoon,Yes,2,No,Yes
+49,Prefer not to say,R&B,6.9,Apple Music,Evening,Yes,4,Yes,No
+45,Prefer not to say,Country,3.6,Spotify,Night,Yes,5,Yes,Yes
+20,Male,R&B,2.2,Amazon Music,Night,No,5,No,No
+35,Prefer not to say,Jazz,4.1,Spotify,Morning,Yes,5,Yes,No
+15,Prefer not to say,R&B,7.1,SoundCloud,Night,Yes,3,Yes,No
+45,Male,Country,7.6,Amazon Music,Night,Yes,4,Yes,No
+21,Male,Classical,1.3,Apple Music,Morning,Yes,4,No,Yes
+39,Male,Electronic,4.3,Apple Music,Afternoon,No,3,No,Yes
+14,Non-binary,Rock,0.6,YouTube,Evening,Yes,4,Yes,Yes
+30,Non-binary,Rock,0.9,YouTube,Evening,Yes,4,No,No
+59,Female,Electronic,2.3,Amazon Music,All Day,No,4,No,Yes
+51,Prefer not to say,Pop,3.5,Apple Music,Night,No,3,No,Yes
+41,Female,Rock,6.5,Amazon Music,All Day,Yes,4,Yes,No
+49,Prefer not to say,Country,7.9,YouTube,Evening,Yes,4,Yes,No
+24,Female,Hip-Hop,2.8,Spotify,Afternoon,No,2,No,No
+31,Male,Pop,7.7,Spotify,All Day,No,2,No,Yes
+23,Male,Jazz,0.9,SoundCloud,Morning,Yes,3,Yes,No
+38,Female,Rock,4.6,Spotify,Morning,Yes,5,Yes,No
+47,Prefer not to say,R&B,5.1,SoundCloud,All Day,Yes,4,No,No
+54,Non-binary,Hip-Hop,7.9,Spotify,Night,Yes,5,Yes,Yes
+34,Prefer not to say,R&B,1.9,Apple Music,Evening,Yes,1,Yes,Yes
+28,Male,Rock,4.6,YouTube,Night,No,3,No,No
+40,Prefer not to say,Pop,5.3,SoundCloud,Night,No,2,No,No
+23,Prefer not to say,R&B,5.1,SoundCloud,Evening,No,5,Yes,No
+48,Male,Hip-Hop,7.9,SoundCloud,Night,Yes,3,Yes,No
+21,Male,Electronic,6.4,YouTube,Night,Yes,4,Yes,Yes
+33,Male,Electronic,5.3,Amazon Music,All Day,No,2,No,Yes
+16,Male,Pop,1.7,Spotify,All Day,Yes,5,Yes,No
+15,Prefer not to say,R&B,0.7,Amazon Music,Night,Yes,4,No,No
+39,Prefer not to say,Hip-Hop,5.2,Amazon Music,Morning,No,2,Yes,Yes
+20,Non-binary,Country,1.2,Spotify,Evening,Yes,2,Yes,No
+55,Non-binary,Jazz,5.6,Spotify,Afternoon,Yes,4,No,No
+18,Female,Electronic,4.1,YouTube,Morning,No,5,Yes,Yes
+44,Prefer not to say,Electronic,2.4,Amazon Music,All Day,Yes,5,No,Yes
+22,Female,Hip-Hop,6.4,Spotify,Evening,Yes,2,No,No
+29,Non-binary,Pop,5.0,Spotify,Morning,Yes,3,Yes,No
+14,Male,Country,1.9,SoundCloud,Morning,Yes,5,Yes,No
+50,Female,Pop,2.3,Spotify,Evening,Yes,4,Yes,No
+31,Male,Jazz,1.8,Apple Music,Afternoon,Yes,3,No,Yes
+50,Male,R&B,5.2,SoundCloud,Afternoon,Yes,4,Yes,No
+32,Non-binary,Country,1.2,SoundCloud,Morning,Yes,1,No,Yes
+58,Prefer not to say,Jazz,5.0,Spotify,All Day,No,5,No,Yes
+21,Male,Classical,6.4,Apple Music,Afternoon,No,3,No,Yes
+51,Non-binary,Electronic,2.1,Spotify,All Day,No,4,No,Yes
+38,Non-binary,Hip-Hop,6.1,YouTube,All Day,Yes,1,Yes,No
+27,Female,Country,2.0,SoundCloud,Morning,No,1,No,Yes
+47,Male,Country,0.6,YouTube,Night,No,3,No,No
+36,Male,Hip-Hop,3.2,SoundCloud,All Day,Yes,3,Yes,Yes
+39,Non-binary,Electronic,3.6,Apple Music,Evening,Yes,1,No,No
+41,Female,R&B,4.4,SoundCloud,Evening,Yes,1,No,No
+43,Non-binary,R&B,6.4,SoundCloud,Morning,No,3,Yes,Yes
+52,Prefer not to say,Jazz,6.3,SoundCloud,Afternoon,No,1,No,Yes
+42,Male,Pop,1.0,Amazon Music,Night,Yes,5,No,Yes
+28,Male,Rock,1.7,SoundCloud,Afternoon,Yes,2,Yes,Yes
+59,Prefer not to say,Electronic,4.8,Spotify,Morning,Yes,5,No,Yes
+27,Female,Electronic,5.2,YouTube,Morning,Yes,5,No,Yes
+26,Prefer not to say,Rock,5.4,SoundCloud,Morning,No,1,Yes,Yes
+60,Male,Rock,1.7,SoundCloud,Afternoon,Yes,2,No,No
+46,Non-binary,Pop,1.9,Amazon Music,Evening,Yes,5,No,Yes
+21,Female,Classical,0.6,YouTube,Morning,No,5,No,Yes
+58,Female,Rock,6.2,Apple Music,Morning,No,3,Yes,Yes
+50,Female,Pop,5.8,Apple Music,Afternoon,Yes,5,No,No
+16,Prefer not to say,Hip-Hop,3.6,Spotify,All Day,Yes,5,No,No
+17,Prefer not to say,Hip-Hop,1.1,YouTube,Morning,Yes,3,Yes,No
+27,Male,Jazz,1.1,Amazon Music,Afternoon,Yes,5,No,Yes
+13,Male,Pop,2.4,Amazon Music,Evening,No,4,No,No
+47,Male,Hip-Hop,2.9,Amazon Music,Night,Yes,3,Yes,No
+23,Male,Rock,6.3,YouTube,All Day,Yes,5,Yes,Yes
+47,Prefer not to say,Classical,4.3,YouTube,Evening,Yes,3,No,No
+42,Female,Hip-Hop,5.5,Spotify,Afternoon,Yes,3,Yes,No
+44,Non-binary,Electronic,5.0,Apple Music,Afternoon,Yes,5,No,No
+48,Prefer not to say,Classical,7.1,Apple Music,All Day,Yes,3,No,No
+33,Prefer not to say,Classical,7.9,Amazon Music,Evening,Yes,4,Yes,Yes
+53,Non-binary,Country,0.6,Apple Music,Morning,No,3,Yes,Yes
+25,Non-binary,R&B,1.8,Amazon Music,All Day,Yes,2,No,Yes
+36,Prefer not to say,Electronic,1.4,Apple Music,Morning,No,1,Yes,Yes
+22,Non-binary,Country,7.2,SoundCloud,Night,Yes,5,Yes,Yes
+46,Prefer not to say,Hip-Hop,7.9,Amazon Music,Night,Yes,4,No,No
+43,Prefer not to say,Jazz,5.0,Apple Music,Evening,No,4,No,Yes
+52,Female,R&B,2.9,Amazon Music,Night,Yes,2,Yes,No
+28,Non-binary,Hip-Hop,0.7,SoundCloud,All Day,No,2,Yes,Yes
+35,Non-binary,Pop,4.7,Amazon Music,All Day,Yes,1,No,No
+52,Non-binary,Electronic,2.5,Apple Music,All Day,Yes,5,No,Yes
+31,Prefer not to say,Country,7.4,SoundCloud,Morning,No,1,Yes,No
+15,Non-binary,Country,5.0,YouTube,Night,No,2,No,Yes
+47,Non-binary,Classical,4.8,Amazon Music,Morning,No,3,No,No
+34,Non-binary,Pop,1.1,Amazon Music,Morning,Yes,4,Yes,Yes
+19,Non-binary,Hip-Hop,1.7,Spotify,Evening,No,4,No,No
+54,Non-binary,R&B,1.3,Apple Music,Evening,Yes,1,Yes,No
+60,Female,Pop,7.9,SoundCloud,Evening,Yes,1,Yes,Yes
+42,Male,Jazz,6.9,Amazon Music,Night,No,1,No,No
+36,Female,Rock,0.8,YouTube,All Day,No,3,Yes,Yes
+26,Non-binary,Jazz,6.6,SoundCloud,Evening,No,1,No,Yes
+55,Male,Hip-Hop,1.2,YouTube,All Day,No,4,No,Yes
+37,Non-binary,Electronic,2.8,Apple Music,Afternoon,Yes,1,No,Yes
+42,Non-binary,Pop,4.6,SoundCloud,Afternoon,No,1,Yes,Yes
+18,Prefer not to say,Rock,5.0,Apple Music,Morning,No,2,Yes,Yes
+26,Female,Rock,8.0,Apple Music,All Day,Yes,4,Yes,Yes
+46,Non-binary,Country,1.9,Amazon Music,Morning,Yes,5,No,Yes
+14,Male,Classical,7.7,Apple Music,Morning,Yes,3,Yes,Yes
+55,Female,Country,2.8,Amazon Music,Night,Yes,3,Yes,Yes
+17,Female,Jazz,6.6,Amazon Music,Afternoon,No,5,No,Yes
+53,Male,Country,4.1,Amazon Music,All Day,No,3,Yes,Yes
+32,Prefer not to say,Pop,7.3,YouTube,Night,No,5,Yes,No
+44,Male,Electronic,2.4,SoundCloud,Afternoon,Yes,5,Yes,No
+29,Female,Jazz,0.6,Amazon Music,Evening,Yes,5,Yes,Yes
+59,Non-binary,Pop,2.9,Apple Music,All Day,Yes,5,Yes,Yes
+43,Non-binary,Country,1.1,YouTube,All Day,No,1,No,No
+17,Prefer not to say,Rock,2.0,YouTube,Evening,No,5,No,Yes
+60,Non-binary,Classical,7.0,YouTube,Afternoon,Yes,5,Yes,Yes
+21,Female,Rock,1.0,Amazon Music,All Day,No,3,No,No
+51,Male,Hip-Hop,7.1,Amazon Music,All Day,No,2,No,No
+25,Female,Electronic,3.5,Spotify,All Day,Yes,2,Yes,No
+24,Female,Pop,0.7,Amazon Music,Night,Yes,5,Yes,No
+42,Non-binary,Country,7.7,YouTube,Morning,Yes,1,Yes,Yes
+15,Non-binary,Country,4.5,YouTube,Evening,No,4,No,No
+54,Female,Hip-Hop,3.7,Spotify,Afternoon,Yes,5,Yes,Yes
+38,Non-binary,R&B,7.1,SoundCloud,Afternoon,No,3,No,Yes
+55,Female,Rock,7.7,SoundCloud,Night,No,2,No,Yes
+52,Male,Pop,7.1,Apple Music,Morning,Yes,5,Yes,Yes
+56,Male,Electronic,6.3,Amazon Music,All Day,Yes,4,No,Yes
+45,Male,Pop,7.9,Apple Music,Afternoon,Yes,5,No,Yes
+60,Non-binary,Electronic,7.0,Spotify,Night,Yes,5,No,No
+45,Male,Pop,1.3,Amazon Music,Evening,No,4,No,Yes
+52,Non-binary,Jazz,1.2,Amazon Music,Evening,Yes,1,Yes,Yes
+50,Non-binary,Pop,3.6,Spotify,Morning,Yes,1,No,No
+29,Female,Electronic,4.0,Amazon Music,Morning,No,1,Yes,No
+51,Non-binary,Country,0.9,YouTube,Morning,No,1,No,Yes
+27,Female,Electronic,1.5,Amazon Music,Afternoon,No,3,No,Yes
+32,Female,Rock,5.7,Spotify,Morning,Yes,4,Yes,No
+34,Male,Jazz,1.5,Amazon Music,Evening,Yes,3,Yes,No
+25,Female,Rock,3.7,SoundCloud,All Day,Yes,2,Yes,Yes
+20,Non-binary,R&B,1.4,SoundCloud,Afternoon,No,5,Yes,No
+19,Prefer not to say,Rock,7.4,Amazon Music,Evening,No,2,No,No
+55,Male,R&B,5.2,Amazon Music,Afternoon,No,4,No,Yes
+42,Prefer not to say,Classical,3.0,Amazon Music,Evening,No,4,Yes,No
+14,Non-binary,Rock,6.9,YouTube,Afternoon,Yes,3,Yes,Yes
+33,Female,Classical,1.2,SoundCloud,Morning,Yes,5,Yes,Yes
+42,Female,Rock,4.4,SoundCloud,Night,No,2,Yes,Yes
+33,Non-binary,Pop,5.0,Apple Music,Evening,No,4,No,Yes
+52,Prefer not to say,Hip-Hop,5.0,Spotify,Evening,No,4,No,Yes
+13,Prefer not to say,Country,4.9,Amazon Music,Evening,No,2,No,No
+51,Female,Pop,6.8,SoundCloud,Night,No,5,Yes,Yes
+25,Prefer not to say,Jazz,3.2,Spotify,Morning,No,2,Yes,No
+16,Prefer not to say,R&B,0.5,Amazon Music,Evening,No,5,Yes,Yes
+45,Prefer not to say,Classical,5.9,Amazon Music,Afternoon,Yes,1,No,No
+39,Non-binary,Country,3.3,YouTube,Morning,No,5,No,Yes
+24,Non-binary,Classical,5.2,Spotify,All Day,No,2,Yes,No
+24,Female,Hip-Hop,3.6,SoundCloud,Night,Yes,3,No,No
+48,Female,Country,5.2,YouTube,Afternoon,No,1,No,Yes
+13,Female,Pop,6.4,YouTube,All Day,Yes,5,No,Yes
+53,Prefer not to say,R&B,2.0,Apple Music,Morning,No,1,Yes,No
+29,Non-binary,Jazz,5.6,Spotify,Afternoon,No,5,No,No
+19,Prefer not to say,Rock,2.6,Apple Music,Night,Yes,1,Yes,No
+16,Prefer not to say,Classical,4.5,Amazon Music,Evening,No,3,No,Yes
+24,Non-binary,Jazz,4.3,YouTube,Night,Yes,5,Yes,No
+22,Male,Pop,7.4,YouTube,Evening,No,5,No,Yes
+25,Male,Classical,3.0,YouTube,Evening,No,5,Yes,Yes
+16,Female,Electronic,1.0,Apple Music,Night,No,4,Yes,Yes
+25,Prefer not to say,Rock,2.5,Apple Music,Evening,No,4,No,No
+34,Prefer not to say,Electronic,5.3,Amazon Music,Afternoon,No,2,No,Yes
+16,Male,Country,5.3,Spotify,Afternoon,No,3,Yes,Yes
+56,Non-binary,Jazz,7.0,YouTube,Night,Yes,3,Yes,No
+34,Prefer not to say,Pop,1.5,Apple Music,Night,No,5,Yes,No
+50,Non-binary,Pop,5.9,Apple Music,Afternoon,No,3,No,Yes
+45,Prefer not to say,Hip-Hop,5.3,SoundCloud,Afternoon,No,4,Yes,No
+24,Non-binary,Classical,7.4,YouTube,Afternoon,No,4,Yes,No
+37,Female,Jazz,3.4,YouTube,Morning,No,5,Yes,Yes
+23,Prefer not to say,Pop,1.6,SoundCloud,Night,No,5,No,Yes
+16,Prefer not to say,Jazz,7.0,Apple Music,Night,No,3,No,Yes
+39,Male,Electronic,5.5,Apple Music,Evening,Yes,4,No,Yes
+28,Male,Pop,5.0,Amazon Music,Night,No,2,No,Yes
+39,Non-binary,Classical,1.9,SoundCloud,Morning,No,5,No,No
+54,Male,Classical,1.7,SoundCloud,Afternoon,Yes,1,Yes,No
+43,Female,Electronic,0.9,SoundCloud,Evening,Yes,5,No,No
+58,Female,Rock,6.4,Amazon Music,Night,Yes,2,Yes,No
+58,Female,R&B,0.9,Spotify,Night,Yes,1,No,Yes
+24,Male,Rock,2.3,SoundCloud,Afternoon,No,5,Yes,No
+23,Male,Pop,2.7,Spotify,All Day,Yes,3,No,Yes
+25,Male,Rock,6.5,Amazon Music,Morning,Yes,4,Yes,Yes
+28,Female,Classical,6.9,Amazon Music,Evening,No,2,Yes,No
+58,Prefer not to say,Country,7.2,SoundCloud,Afternoon,Yes,3,No,No
+18,Non-binary,R&B,5.1,Spotify,Morning,Yes,1,Yes,Yes
+19,Non-binary,Jazz,2.6,YouTube,Night,Yes,2,Yes,No
+23,Female,R&B,5.4,Spotify,Morning,No,2,No,No
+22,Prefer not to say,R&B,3.1,SoundCloud,Evening,No,4,Yes,Yes
+15,Non-binary,Rock,3.7,Apple Music,Afternoon,No,3,Yes,Yes
+23,Non-binary,Hip-Hop,8.0,Amazon Music,All Day,No,4,No,No
+32,Female,Country,0.8,Amazon Music,All Day,Yes,5,Yes,Yes
+60,Male,Electronic,5.8,SoundCloud,Afternoon,No,4,No,Yes
+29,Male,Pop,1.3,SoundCloud,Afternoon,Yes,5,Yes,No
+44,Non-binary,Electronic,3.2,Spotify,All Day,No,5,No,Yes
+46,Female,R&B,7.3,Spotify,Morning,No,3,No,Yes
+37,Non-binary,R&B,7.4,Amazon Music,Morning,No,1,Yes,No
+54,Female,Classical,2.8,SoundCloud,All Day,No,1,Yes,Yes
+57,Prefer not to say,Hip-Hop,7.3,Apple Music,Morning,No,5,Yes,No
+16,Prefer not to say,Classical,5.6,Amazon Music,All Day,No,3,No,Yes
+31,Female,Hip-Hop,1.4,Spotify,Morning,Yes,4,Yes,No
+26,Male,Rock,3.0,Spotify,All Day,No,3,No,No
+19,Prefer not to say,Electronic,2.9,Spotify,Night,No,4,Yes,Yes
+40,Non-binary,Jazz,3.7,YouTube,Evening,Yes,2,Yes,Yes
+25,Prefer not to say,Classical,5.3,Spotify,Morning,Yes,2,Yes,No
+45,Prefer not to say,Pop,1.2,YouTube,Night,Yes,2,Yes,Yes
+43,Female,R&B,3.1,Amazon Music,Evening,Yes,3,Yes,Yes
+44,Non-binary,R&B,7.5,Amazon Music,Evening,No,1,No,No
+37,Prefer not to say,Country,5.8,YouTube,Afternoon,No,5,Yes,No
+41,Female,Country,2.8,SoundCloud,Night,Yes,2,Yes,No
+57,Male,Pop,6.5,YouTube,Afternoon,Yes,1,Yes,Yes
+34,Male,Hip-Hop,6.8,YouTube,Evening,Yes,1,Yes,No
+37,Non-binary,Electronic,3.8,YouTube,Night,No,4,Yes,Yes
+60,Male,Pop,4.1,Spotify,Night,Yes,1,No,Yes
+59,Female,R&B,0.5,Spotify,Night,No,4,No,Yes
+36,Prefer not to say,Country,1.0,YouTube,All Day,No,2,Yes,Yes
+52,Non-binary,Electronic,7.3,Spotify,Night,Yes,4,No,No
+32,Prefer not to say,Pop,4.8,Amazon Music,All Day,No,3,No,No
+34,Female,Electronic,2.7,YouTube,Morning,Yes,5,No,Yes
+32,Female,Country,2.0,Apple Music,Afternoon,No,4,No,Yes
+28,Non-binary,Pop,1.8,YouTube,Night,No,1,Yes,No
+55,Female,Hip-Hop,1.7,Apple Music,Evening,Yes,1,Yes,Yes
+30,Prefer not to say,R&B,3.5,Spotify,Evening,No,1,Yes,No
+49,Male,Rock,1.2,Spotify,Evening,No,3,Yes,No
+18,Non-binary,Classical,1.2,Spotify,Morning,Yes,5,Yes,Yes
+56,Female,Hip-Hop,7.9,SoundCloud,Evening,Yes,5,No,No
+58,Female,Hip-Hop,3.0,YouTube,Afternoon,No,5,No,No
+26,Non-binary,Country,1.0,Amazon Music,All Day,Yes,1,No,No
+25,Male,R&B,1.2,YouTube,Afternoon,Yes,2,No,No
+46,Prefer not to say,Jazz,6.7,Apple Music,Afternoon,Yes,4,No,No
+42,Prefer not to say,Electronic,4.2,Amazon Music,Night,Yes,4,Yes,Yes
+33,Female,Pop,3.8,YouTube,Morning,Yes,3,No,No
+30,Male,Electronic,1.2,SoundCloud,Night,Yes,5,No,Yes
+45,Non-binary,Hip-Hop,5.9,Spotify,Morning,Yes,1,No,No
+49,Non-binary,Pop,7.9,Apple Music,Night,No,2,No,Yes
+60,Non-binary,Country,5.7,SoundCloud,Afternoon,Yes,2,No,No
+27,Non-binary,Classical,1.1,Amazon Music,Evening,Yes,3,Yes,Yes
+33,Male,R&B,2.5,SoundCloud,Afternoon,Yes,1,No,No
+35,Male,Hip-Hop,3.8,Amazon Music,Afternoon,No,3,Yes,Yes
+20,Male,Hip-Hop,7.0,Apple Music,Evening,No,5,Yes,No
+31,Non-binary,Rock,4.5,Spotify,Afternoon,No,3,Yes,No
+17,Prefer not to say,Electronic,6.1,Spotify,Afternoon,No,2,No,No
+60,Female,Hip-Hop,6.0,YouTube,Night,Yes,3,No,No
+38,Male,Hip-Hop,4.7,Spotify,Night,No,5,Yes,Yes
+13,Non-binary,Hip-Hop,6.2,Amazon Music,Night,Yes,3,No,Yes
+27,Prefer not to say,Pop,1.1,Amazon Music,Morning,Yes,5,No,No
+37,Non-binary,Jazz,4.6,Spotify,Morning,Yes,4,No,Yes
+55,Female,Classical,5.2,YouTube,Afternoon,No,2,No,Yes
+43,Male,Jazz,1.7,Amazon Music,All Day,No,4,No,No
+19,Non-binary,R&B,3.7,Amazon Music,Night,Yes,4,No,Yes
+39,Male,Country,2.0,Amazon Music,Night,Yes,3,Yes,No
+32,Prefer not to say,Jazz,3.3,Amazon Music,Evening,Yes,2,No,Yes
+21,Male,R&B,7.0,Apple Music,Afternoon,No,4,No,Yes
+47,Male,Rock,7.3,Amazon Music,All Day,Yes,5,No,Yes
+27,Male,Rock,5.7,SoundCloud,Afternoon,Yes,4,Yes,No
+31,Male,Rock,5.9,Apple Music,Morning,Yes,1,Yes,No
+33,Female,Hip-Hop,0.7,YouTube,Night,Yes,5,No,Yes
+57,Prefer not to say,R&B,2.7,Spotify,Afternoon,Yes,5,Yes,Yes
+48,Non-binary,Country,7.9,Amazon Music,Evening,No,4,Yes,No
+45,Prefer not to say,Rock,3.6,Spotify,All Day,Yes,5,Yes,Yes
+46,Female,Hip-Hop,4.4,Apple Music,All Day,No,1,No,Yes
+33,Female,Classical,2.2,YouTube,All Day,No,1,Yes,Yes
+26,Non-binary,R&B,0.8,YouTube,Evening,Yes,4,Yes,No
+39,Male,Electronic,2.3,Amazon Music,All Day,Yes,5,No,Yes
+13,Prefer not to say,Country,5.5,YouTube,Morning,No,2,Yes,Yes
+21,Prefer not to say,Pop,7.9,YouTube,Night,No,1,No,Yes
+30,Female,Country,4.7,Spotify,Morning,Yes,3,Yes,No
+18,Prefer not to say,Classical,5.1,Amazon Music,Evening,No,2,No,No
+50,Male,Rock,2.8,Amazon Music,Afternoon,Yes,2,Yes,No
+57,Male,Electronic,2.7,YouTube,Evening,No,2,No,No
+22,Non-binary,Electronic,5.4,YouTube,Afternoon,No,5,Yes,No
+14,Female,Country,2.7,Amazon Music,Evening,No,1,Yes,No
+40,Prefer not to say,Classical,6.6,SoundCloud,Morning,No,5,Yes,Yes
+35,Prefer not to say,Country,4.4,Amazon Music,Evening,Yes,5,Yes,Yes
+58,Prefer not to say,Rock,2.9,YouTube,Morning,No,1,No,Yes
+35,Male,Country,1.7,YouTube,Night,Yes,3,No,Yes
+24,Non-binary,R&B,7.2,Amazon Music,Afternoon,No,2,No,No
+36,Female,Rock,6.2,SoundCloud,Night,No,4,No,No
+37,Female,R&B,6.3,YouTube,Morning,No,5,Yes,Yes
+34,Male,Jazz,2.2,Amazon Music,Evening,Yes,1,No,Yes
+15,Prefer not to say,Jazz,7.9,YouTube,Night,Yes,2,Yes,Yes
+52,Prefer not to say,Electronic,6.0,Apple Music,Night,No,2,No,Yes
+51,Non-binary,Pop,5.6,Amazon Music,Afternoon,Yes,4,No,Yes
+60,Prefer not to say,Country,3.7,SoundCloud,Night,Yes,3,No,Yes
+30,Female,Rock,6.7,SoundCloud,Evening,No,4,No,Yes
+50,Male,Electronic,4.3,Spotify,Morning,No,2,No,Yes
+20,Male,Classical,7.0,Apple Music,Evening,No,1,No,Yes
+27,Prefer not to say,Country,1.3,YouTube,Afternoon,No,3,Yes,No
+14,Prefer not to say,Classical,7.9,Amazon Music,Evening,No,5,Yes,Yes
+45,Female,Electronic,7.7,Apple Music,All Day,No,3,Yes,Yes
+38,Female,Jazz,1.8,SoundCloud,Morning,Yes,4,Yes,Yes
+17,Prefer not to say,Hip-Hop,0.5,YouTube,Night,No,4,Yes,No
+17,Female,Electronic,3.5,SoundCloud,All Day,No,5,Yes,No
+40,Non-binary,Rock,3.0,Spotify,Afternoon,Yes,1,No,No
+51,Female,Classical,6.8,Spotify,Afternoon,No,2,No,Yes
+38,Prefer not to say,Hip-Hop,7.8,Amazon Music,Night,Yes,5,Yes,Yes
+19,Male,Jazz,1.8,Spotify,Afternoon,No,3,No,Yes
+27,Prefer not to say,Country,7.6,Spotify,Morning,Yes,2,No,No
+38,Prefer not to say,Rock,4.6,Spotify,Morning,Yes,1,No,No
+51,Prefer not to say,Country,7.2,Spotify,Afternoon,No,5,Yes,Yes
+18,Male,Pop,2.4,Spotify,Night,Yes,3,Yes,Yes
+43,Non-binary,R&B,1.3,Spotify,Night,Yes,1,Yes,Yes
+60,Female,Hip-Hop,6.3,YouTube,Morning,Yes,1,Yes,No
+29,Male,Rock,1.5,YouTube,Morning,No,3,No,Yes
+23,Male,Country,4.2,Apple Music,Afternoon,Yes,3,Yes,Yes
+49,Non-binary,Country,4.5,Spotify,Morning,Yes,4,No,No
+35,Non-binary,Hip-Hop,1.6,Amazon Music,All Day,No,2,No,Yes
+33,Prefer not to say,R&B,2.1,Apple Music,Afternoon,No,4,No,No
+34,Male,Classical,3.9,YouTube,Evening,Yes,1,Yes,No
+52,Female,Pop,2.3,Amazon Music,Evening,Yes,4,Yes,Yes
+17,Non-binary,Country,2.6,Amazon Music,Afternoon,No,4,No,No
+39,Male,Rock,7.7,Amazon Music,Morning,Yes,3,Yes,Yes
+46,Prefer not to say,Jazz,3.5,Apple Music,Morning,No,1,Yes,No
+41,Female,Jazz,4.7,YouTube,Evening,No,4,No,No
+23,Male,Country,2.7,YouTube,All Day,No,1,Yes,No
+27,Non-binary,Hip-Hop,5.2,SoundCloud,Evening,No,3,Yes,No
+40,Non-binary,R&B,3.4,SoundCloud,Night,No,1,Yes,Yes
+47,Female,Jazz,5.9,Spotify,All Day,Yes,4,Yes,Yes
+45,Non-binary,R&B,2.0,Apple Music,All Day,Yes,3,No,No
+41,Male,Electronic,6.7,Apple Music,Night,Yes,5,No,Yes
+28,Female,Hip-Hop,4.2,SoundCloud,Night,Yes,4,Yes,No
+47,Female,Country,2.3,Apple Music,Morning,No,4,Yes,No
+16,Non-binary,Electronic,2.4,Apple Music,All Day,No,2,Yes,No
+23,Female,Electronic,7.9,YouTube,Night,No,2,No,No
+15,Non-binary,R&B,1.9,Amazon Music,Morning,Yes,4,No,No
+28,Non-binary,Country,5.4,Amazon Music,All Day,Yes,1,Yes,Yes
+54,Female,Country,2.7,Amazon Music,Evening,No,5,Yes,Yes
+38,Female,Electronic,4.1,Apple Music,Night,Yes,5,Yes,Yes
+46,Non-binary,Jazz,2.2,Apple Music,Afternoon,Yes,5,Yes,Yes
+28,Non-binary,R&B,1.8,SoundCloud,Afternoon,Yes,4,No,No
+43,Non-binary,Classical,3.0,Apple Music,All Day,Yes,1,No,No
+28,Non-binary,Pop,3.6,SoundCloud,Evening,Yes,5,Yes,No
+15,Prefer not to say,R&B,0.5,Apple Music,Evening,Yes,3,No,No
+51,Male,Classical,0.8,YouTube,Afternoon,No,5,Yes,No
+56,Prefer not to say,Hip-Hop,4.7,SoundCloud,Afternoon,Yes,5,Yes,No
+14,Non-binary,Hip-Hop,7.3,Apple Music,Night,No,3,No,Yes
+55,Non-binary,Jazz,8.0,Apple Music,Morning,Yes,1,Yes,No
+29,Prefer not to say,Classical,3.0,Amazon Music,Afternoon,Yes,5,No,Yes
+53,Female,Rock,0.8,Amazon Music,Afternoon,No,3,No,Yes
+32,Prefer not to say,Electronic,6.7,YouTube,Night,No,5,Yes,No
+36,Male,Electronic,5.6,SoundCloud,Evening,No,5,No,No
+32,Non-binary,Classical,3.2,Amazon Music,Afternoon,No,4,No,Yes
+46,Male,R&B,7.0,SoundCloud,Morning,No,3,No,Yes
+36,Male,Rock,5.3,Spotify,Afternoon,Yes,1,No,Yes
+32,Male,Electronic,8.0,Spotify,All Day,Yes,5,Yes,No
+41,Non-binary,Jazz,1.6,YouTube,Morning,No,4,No,Yes
+23,Male,Country,4.5,YouTube,Night,No,4,Yes,No
+29,Male,Classical,3.1,Apple Music,Morning,No,1,No,Yes
+18,Prefer not to say,Jazz,4.6,Apple Music,Morning,Yes,2,No,No
+42,Prefer not to say,Hip-Hop,4.8,Amazon Music,Afternoon,Yes,4,No,Yes
+24,Prefer not to say,Country,5.4,SoundCloud,Morning,Yes,1,Yes,Yes
+47,Prefer not to say,R&B,6.0,Apple Music,Evening,No,4,Yes,No
+42,Prefer not to say,Electronic,7.5,Amazon Music,Morning,No,4,Yes,No
+23,Female,Rock,2.5,SoundCloud,Evening,Yes,1,No,Yes
+59,Female,Rock,3.9,Apple Music,Afternoon,Yes,1,Yes,No
+42,Prefer not to say,Jazz,3.6,Amazon Music,Evening,Yes,2,No,No
+16,Prefer not to say,Hip-Hop,5.6,SoundCloud,Night,No,5,No,Yes
+37,Non-binary,Hip-Hop,4.7,YouTube,Morning,No,4,No,No
+18,Female,Pop,2.6,YouTube,Night,No,1,No,No
+32,Female,Rock,4.1,SoundCloud,Evening,No,2,Yes,Yes
+36,Female,Country,5.4,SoundCloud,Evening,No,3,No,No
+19,Female,Rock,4.1,SoundCloud,All Day,Yes,3,Yes,No
+27,Male,Classical,4.8,Apple Music,Afternoon,Yes,1,Yes,No
+56,Female,Country,3.3,YouTube,Night,No,3,No,Yes
+24,Prefer not to say,Country,0.9,Spotify,Morning,No,4,Yes,No
+28,Non-binary,Electronic,0.8,Spotify,Evening,No,2,Yes,Yes
+49,Prefer not to say,Pop,0.8,Spotify,Evening,Yes,5,Yes,No
+49,Non-binary,Electronic,5.9,YouTube,All Day,Yes,3,Yes,No
+19,Female,Classical,6.2,Amazon Music,All Day,No,4,Yes,Yes
+34,Prefer not to say,Classical,1.6,Spotify,All Day,Yes,4,Yes,Yes
+50,Non-binary,Pop,3.0,Apple Music,All Day,Yes,2,No,Yes
+22,Male,Rock,3.4,Amazon Music,All Day,Yes,5,Yes,No
+46,Non-binary,Country,6.1,Apple Music,Night,No,1,Yes,Yes
+42,Male,Country,7.3,Amazon Music,All Day,No,1,Yes,No
+17,Non-binary,Pop,0.7,Amazon Music,Evening,Yes,3,Yes,No
+46,Non-binary,Classical,5.4,Apple Music,All Day,Yes,1,No,Yes
+33,Female,Rock,6.3,SoundCloud,Evening,No,2,Yes,Yes
+13,Female,R&B,6.3,SoundCloud,Afternoon,Yes,4,Yes,No
+38,Female,Country,3.7,YouTube,Morning,Yes,4,No,Yes
+39,Prefer not to say,Jazz,7.4,SoundCloud,Afternoon,Yes,3,Yes,Yes
+29,Non-binary,Classical,4.5,SoundCloud,Morning,Yes,4,Yes,Yes
+38,Female,Hip-Hop,0.7,SoundCloud,Morning,No,3,No,No
+45,Female,Country,7.8,YouTube,Night,Yes,2,No,No
+54,Non-binary,Rock,7.3,Apple Music,Morning,No,4,Yes,No
+21,Female,R&B,1.8,Apple Music,Morning,No,1,No,No
+51,Prefer not to say,R&B,2.3,Amazon Music,All Day,No,2,No,Yes
+45,Male,Rock,7.1,YouTube,All Day,No,1,No,Yes
+30,Female,Country,3.6,YouTube,All Day,No,5,Yes,No
+43,Prefer not to say,Rock,6.8,Amazon Music,Evening,Yes,2,Yes,No
+55,Non-binary,Country,1.0,Apple Music,All Day,Yes,1,No,No
+58,Prefer not to say,Pop,0.6,Amazon Music,All Day,No,1,Yes,No
+60,Prefer not to say,R&B,1.6,Spotify,All Day,Yes,5,No,Yes
+24,Male,Hip-Hop,6.0,Amazon Music,Night,No,4,No,Yes
+19,Female,Electronic,6.6,YouTube,Afternoon,Yes,3,No,No
+39,Female,Pop,4.0,SoundCloud,Afternoon,Yes,2,Yes,Yes
+36,Non-binary,Pop,5.0,SoundCloud,Afternoon,Yes,4,Yes,No
+14,Male,Country,6.8,Apple Music,Evening,Yes,5,No,Yes
+48,Female,Country,2.9,YouTube,Afternoon,Yes,2,Yes,Yes
+56,Male,Electronic,0.5,Apple Music,Afternoon,Yes,1,No,Yes
+59,Non-binary,Jazz,0.9,Apple Music,Afternoon,Yes,2,Yes,Yes
+36,Male,Classical,2.3,Amazon Music,All Day,No,5,No,Yes
+27,Female,Hip-Hop,7.1,YouTube,Night,Yes,3,No,No
+44,Non-binary,R&B,3.2,Amazon Music,All Day,No,4,No,No
+56,Prefer not to say,Jazz,2.8,YouTube,Night,Yes,1,No,No
+49,Prefer not to say,Electronic,7.0,SoundCloud,Morning,Yes,5,No,No
+34,Male,Country,1.3,YouTube,Night,No,4,Yes,Yes
+41,Non-binary,R&B,6.8,Amazon Music,Afternoon,No,5,No,Yes
+23,Female,Electronic,7.9,Spotify,All Day,Yes,1,No,Yes
+59,Female,Classical,1.6,Amazon Music,Afternoon,No,2,No,No
+46,Male,Hip-Hop,6.8,Spotify,Morning,Yes,5,Yes,Yes
+44,Non-binary,Pop,2.9,Amazon Music,Evening,Yes,2,No,Yes
+15,Prefer not to say,R&B,7.1,YouTube,Afternoon,No,1,Yes,Yes
+55,Non-binary,Jazz,2.4,Amazon Music,Night,No,1,No,Yes
+43,Non-binary,Pop,7.7,YouTube,All Day,Yes,5,No,Yes
+25,Prefer not to say,Pop,1.0,Apple Music,All Day,Yes,3,No,No
+29,Non-binary,Hip-Hop,6.6,Amazon Music,Evening,No,2,Yes,No
+16,Prefer not to say,Hip-Hop,2.2,SoundCloud,Evening,Yes,5,Yes,Yes
+56,Male,Rock,4.7,Apple Music,Morning,Yes,5,No,Yes
+45,Male,Electronic,5.4,SoundCloud,Morning,Yes,4,Yes,No
+22,Female,Classical,7.6,Apple Music,Night,Yes,2,Yes,No
+30,Male,R&B,3.4,Apple Music,All Day,Yes,5,Yes,Yes
+53,Male,Rock,3.4,Amazon Music,Afternoon,No,1,No,Yes
+21,Male,Hip-Hop,7.9,SoundCloud,Afternoon,Yes,4,No,Yes
+34,Male,Country,7.0,Apple Music,Evening,Yes,3,No,Yes
+19,Non-binary,R&B,7.7,SoundCloud,Afternoon,No,2,No,No
+46,Male,Pop,3.9,YouTube,Afternoon,Yes,3,Yes,Yes
+45,Male,R&B,1.1,Spotify,Afternoon,Yes,3,Yes,Yes
+19,Male,R&B,1.5,Apple Music,Afternoon,No,3,No,No
+38,Male,Hip-Hop,3.8,Spotify,Night,Yes,5,Yes,Yes
+18,Non-binary,Pop,6.8,Amazon Music,Night,Yes,3,Yes,No
+37,Prefer not to say,Pop,1.8,Apple Music,Night,Yes,1,No,Yes
+60,Non-binary,Pop,2.3,SoundCloud,Morning,Yes,4,Yes,No
+52,Non-binary,R&B,3.5,YouTube,Afternoon,No,3,No,Yes
+34,Prefer not to say,Hip-Hop,5.1,Spotify,Morning,Yes,2,Yes,No
+23,Prefer not to say,Country,4.6,Amazon Music,Afternoon,No,2,No,Yes
+30,Female,Electronic,0.5,Spotify,Afternoon,No,5,No,Yes
+58,Non-binary,R&B,0.9,SoundCloud,Afternoon,No,4,Yes,No
+51,Non-binary,Classical,6.3,Spotify,All Day,Yes,1,Yes,No
+24,Non-binary,Rock,6.8,YouTube,Night,Yes,4,Yes,No
+16,Female,Country,5.0,SoundCloud,All Day,Yes,2,No,Yes
+37,Prefer not to say,R&B,7.0,Apple Music,Morning,Yes,2,Yes,No
+45,Male,Hip-Hop,3.9,Apple Music,Morning,Yes,4,No,No
+26,Male,Electronic,3.0,Apple Music,Night,No,1,No,Yes
+40,Female,Classical,4.5,Spotify,Morning,Yes,1,No,Yes
+26,Prefer not to say,Country,4.2,SoundCloud,Night,Yes,5,Yes,No
+13,Female,Jazz,4.0,Apple Music,Afternoon,Yes,5,No,Yes
+53,Male,R&B,5.4,Amazon Music,Morning,Yes,2,Yes,Yes
+33,Non-binary,Electronic,6.1,Spotify,Night,No,2,No,No
+50,Male,Pop,5.2,SoundCloud,Afternoon,No,2,Yes,No
+44,Non-binary,Electronic,3.9,Spotify,Morning,No,3,No,No
+22,Female,Country,2.6,SoundCloud,Night,Yes,2,Yes,No
+46,Female,Hip-Hop,5.0,SoundCloud,Afternoon,Yes,3,Yes,No
+32,Male,Electronic,3.0,Spotify,Evening,No,1,Yes,No
+44,Male,R&B,6.7,Apple Music,Morning,Yes,5,Yes,No
+58,Prefer not to say,Jazz,1.6,YouTube,Morning,No,3,Yes,No
+38,Female,R&B,7.1,Amazon Music,All Day,No,3,Yes,Yes
+56,Non-binary,Country,4.1,Spotify,Morning,No,2,No,Yes
+60,Prefer not to say,Rock,4.8,SoundCloud,Morning,Yes,5,No,No
+48,Non-binary,Pop,7.9,SoundCloud,Morning,Yes,4,No,Yes
+27,Female,Country,5.8,Amazon Music,Afternoon,No,5,Yes,Yes
+32,Prefer not to say,Electronic,7.7,Spotify,Afternoon,No,2,Yes,No
+46,Female,R&B,6.5,Amazon Music,Morning,Yes,1,No,Yes
+28,Female,Hip-Hop,1.0,Amazon Music,All Day,No,1,Yes,Yes
+41,Female,Pop,7.0,Amazon Music,Evening,Yes,5,No,Yes
+47,Female,Pop,3.6,Amazon Music,All Day,Yes,4,No,Yes
+22,Female,R&B,6.2,YouTube,Afternoon,Yes,4,No,No
+29,Prefer not to say,Hip-Hop,2.7,YouTube,All Day,No,5,No,Yes
+40,Prefer not to say,Jazz,3.4,SoundCloud,Afternoon,Yes,4,Yes,No
+32,Female,Electronic,6.4,YouTube,All Day,No,5,No,No
+22,Male,Hip-Hop,2.0,Apple Music,Night,No,5,No,Yes
+37,Prefer not to say,Hip-Hop,4.9,Spotify,Evening,No,3,Yes,No
+44,Female,Country,4.5,YouTube,All Day,Yes,4,Yes,No
+40,Female,Classical,1.3,SoundCloud,All Day,No,4,Yes,Yes
+52,Male,Hip-Hop,4.9,YouTube,Night,No,5,Yes,No
+31,Male,Pop,7.6,Amazon Music,All Day,No,4,Yes,Yes
+49,Female,Rock,1.2,Spotify,Evening,Yes,1,No,Yes
+16,Male,Rock,0.9,SoundCloud,Night,No,1,No,Yes
+51,Prefer not to say,Country,8.0,YouTube,Night,Yes,5,Yes,Yes
+23,Non-binary,Pop,2.1,YouTube,Evening,No,3,No,No
+45,Prefer not to say,Rock,5.4,Amazon Music,Night,Yes,4,Yes,Yes
+50,Non-binary,Jazz,3.8,Amazon Music,Night,No,5,Yes,Yes
+41,Male,Hip-Hop,1.1,YouTube,Morning,No,1,Yes,No
+52,Female,Jazz,5.9,Amazon Music,Morning,No,5,No,Yes
+37,Female,Pop,1.4,Apple Music,Night,Yes,5,Yes,Yes
+21,Male,Jazz,3.8,YouTube,All Day,No,2,Yes,Yes
+51,Male,Jazz,0.9,YouTube,Morning,Yes,3,No,No
+47,Non-binary,Country,4.4,Amazon Music,Night,Yes,4,Yes,Yes
+41,Female,Classical,2.4,YouTube,Afternoon,Yes,5,No,Yes
+28,Male,Rock,6.5,Apple Music,Afternoon,Yes,5,Yes,No
+59,Male,Electronic,4.0,SoundCloud,All Day,No,1,Yes,No
+48,Prefer not to say,Classical,6.4,Amazon Music,Night,Yes,1,Yes,No
+32,Non-binary,R&B,7.3,Amazon Music,Morning,Yes,5,Yes,No
+42,Non-binary,Electronic,2.9,YouTube,All Day,No,2,Yes,Yes
+50,Male,Country,0.7,Amazon Music,Morning,Yes,4,No,Yes
+48,Male,Country,4.8,Amazon Music,Afternoon,No,1,No,Yes
+21,Non-binary,Country,3.5,Amazon Music,Evening,No,1,No,No
+19,Male,Classical,1.1,SoundCloud,All Day,No,5,Yes,Yes
+17,Female,Hip-Hop,3.7,Amazon Music,All Day,Yes,3,Yes,No
+31,Non-binary,Hip-Hop,5.3,YouTube,Morning,No,2,No,Yes
+15,Non-binary,R&B,5.4,Apple Music,All Day,No,4,Yes,No
+24,Female,Classical,4.3,YouTube,Afternoon,Yes,3,No,Yes
+44,Non-binary,R&B,6.5,YouTube,Morning,Yes,2,Yes,Yes
+21,Non-binary,R&B,6.7,Amazon Music,Morning,No,1,No,No
+30,Male,R&B,7.0,Apple Music,Night,Yes,3,No,No
+29,Non-binary,Country,1.1,Amazon Music,Night,No,1,No,No
+23,Male,Pop,0.9,Apple Music,Night,Yes,4,Yes,Yes
+25,Prefer not to say,Hip-Hop,3.0,SoundCloud,All Day,Yes,5,No,No
+36,Male,Pop,7.9,SoundCloud,All Day,Yes,2,No,No
+18,Non-binary,Country,7.4,Spotify,All Day,No,5,Yes,No
+60,Prefer not to say,Country,2.8,SoundCloud,Morning,Yes,1,Yes,No
+29,Female,Country,5.7,Apple Music,Afternoon,Yes,2,No,Yes
+57,Female,Hip-Hop,1.2,SoundCloud,Afternoon,No,4,Yes,No
+20,Female,Jazz,6.3,Spotify,Night,No,5,No,No
+53,Male,Pop,6.9,Amazon Music,Night,Yes,5,No,Yes
+44,Non-binary,Pop,5.2,SoundCloud,All Day,No,1,No,Yes
+25,Male,Country,1.4,SoundCloud,All Day,Yes,1,Yes,Yes
+40,Non-binary,Hip-Hop,0.7,Amazon Music,Afternoon,Yes,1,No,Yes
+25,Female,Rock,3.1,YouTube,Afternoon,No,2,Yes,No
+52,Non-binary,Electronic,1.8,Apple Music,Night,Yes,3,No,Yes
+44,Non-binary,Classical,7.2,YouTube,Morning,No,3,No,No
+28,Prefer not to say,Hip-Hop,5.8,SoundCloud,Evening,No,3,Yes,No
+25,Prefer not to say,Pop,5.9,Amazon Music,Night,Yes,1,Yes,Yes
+30,Male,Rock,1.2,SoundCloud,Evening,Yes,1,No,Yes
+55,Female,Electronic,1.5,Apple Music,All Day,No,2,Yes,Yes
+26,Non-binary,Rock,7.2,SoundCloud,Afternoon,No,1,Yes,Yes
+20,Female,Classical,5.3,YouTube,Afternoon,No,5,No,Yes
+14,Prefer not to say,Pop,1.2,SoundCloud,Evening,No,1,No,No
+43,Male,R&B,3.1,YouTube,All Day,No,1,No,Yes
+46,Female,R&B,5.0,Spotify,Morning,Yes,1,No,Yes
+47,Male,Rock,6.7,Amazon Music,Afternoon,No,3,Yes,No
+19,Prefer not to say,Classical,0.6,Spotify,Night,No,4,No,No
+41,Non-binary,R&B,3.9,Apple Music,All Day,No,4,Yes,Yes
+45,Female,Pop,7.8,Spotify,Morning,No,4,Yes,Yes
+51,Prefer not to say,Rock,1.7,Apple Music,Night,Yes,5,No,No
+22,Male,Pop,4.1,Amazon Music,Morning,Yes,4,Yes,Yes
+33,Prefer not to say,Jazz,2.0,Amazon Music,Afternoon,Yes,4,No,Yes
+44,Prefer not to say,Electronic,0.9,SoundCloud,All Day,Yes,4,No,Yes
+43,Male,Classical,7.1,Apple Music,Night,No,4,Yes,No
+33,Non-binary,Country,7.3,Amazon Music,Night,Yes,4,No,No
+47,Male,Jazz,1.6,Spotify,Afternoon,No,3,Yes,No
+24,Female,Rock,3.7,YouTube,Evening,Yes,3,No,Yes
+59,Non-binary,Electronic,2.2,YouTube,All Day,No,2,No,No
+27,Non-binary,Pop,2.3,SoundCloud,All Day,Yes,3,Yes,Yes
+50,Prefer not to say,R&B,3.9,Apple Music,Afternoon,No,1,Yes,No
+35,Prefer not to say,Classical,1.2,Amazon Music,All Day,Yes,4,Yes,No
+34,Female,Hip-Hop,0.5,SoundCloud,Morning,Yes,5,No,Yes
+32,Female,Electronic,2.0,Apple Music,All Day,No,3,No,No
+54,Prefer not to say,Electronic,2.5,Amazon Music,Night,Yes,1,Yes,Yes
+17,Male,Electronic,1.2,Amazon Music,Morning,Yes,2,No,No
+36,Male,Classical,4.6,Spotify,Night,No,4,Yes,Yes
+44,Non-binary,R&B,0.6,Spotify,Afternoon,No,3,No,No
+44,Male,Electronic,1.5,Spotify,Morning,No,3,No,Yes
+53,Female,Rock,5.5,SoundCloud,Afternoon,No,5,No,No
+19,Male,R&B,6.7,YouTube,Morning,No,3,Yes,Yes
+54,Male,Electronic,1.1,Spotify,Evening,Yes,4,No,No
+17,Non-binary,Pop,1.8,Apple Music,Night,No,3,Yes,Yes
+40,Non-binary,R&B,8.0,Spotify,Afternoon,No,1,No,No
+23,Female,Rock,4.1,Apple Music,Night,Yes,3,No,No
+28,Non-binary,Hip-Hop,6.4,Amazon Music,Evening,No,4,No,Yes
+14,Female,Electronic,0.7,Spotify,Morning,No,2,Yes,Yes
+28,Male,Rock,2.6,Spotify,Evening,Yes,3,No,Yes
+49,Male,Jazz,1.6,Apple Music,All Day,Yes,2,Yes,No
+34,Prefer not to say,Jazz,4.8,Amazon Music,Evening,No,5,No,Yes
+57,Non-binary,Jazz,6.8,Apple Music,Morning,No,1,Yes,No
+19,Non-binary,Electronic,4.7,SoundCloud,All Day,Yes,3,Yes,No
+47,Male,Classical,7.3,SoundCloud,Morning,Yes,1,No,Yes
+54,Female,Jazz,5.4,Apple Music,Morning,No,4,Yes,Yes
+30,Non-binary,Electronic,6.8,Spotify,Morning,Yes,2,Yes,Yes
+40,Female,R&B,7.0,SoundCloud,Evening,No,3,Yes,No
+58,Female,Country,7.5,Spotify,Afternoon,No,5,Yes,No
+56,Male,Rock,6.2,YouTube,Afternoon,Yes,2,No,Yes
+42,Prefer not to say,R&B,6.3,Spotify,Afternoon,Yes,3,No,No
+25,Prefer not to say,Classical,3.2,Spotify,Morning,No,4,No,Yes
+35,Non-binary,Hip-Hop,0.7,YouTube,All Day,No,1,Yes,No
+39,Female,R&B,1.3,Apple Music,Morning,Yes,1,No,Yes
+36,Male,Country,1.8,Amazon Music,Night,No,2,Yes,No
+26,Prefer not to say,Pop,4.5,YouTube,Evening,Yes,4,No,No
+30,Prefer not to say,Pop,8.0,Amazon Music,Night,Yes,1,Yes,No
+34,Non-binary,Electronic,5.8,Amazon Music,Morning,No,1,No,Yes
+18,Male,Hip-Hop,7.9,Amazon Music,Morning,Yes,1,Yes,No
+58,Non-binary,Pop,1.3,Apple Music,Afternoon,No,4,Yes,Yes
+21,Prefer not to say,Country,3.3,Spotify,Morning,No,5,Yes,Yes
+43,Male,Country,5.1,YouTube,Evening,Yes,4,Yes,Yes
+13,Male,Country,6.5,YouTube,Evening,Yes,3,No,Yes
+46,Non-binary,Rock,6.5,SoundCloud,Night,Yes,4,Yes,Yes
+34,Male,Pop,7.3,Spotify,Evening,Yes,3,Yes,Yes
+19,Prefer not to say,R&B,4.3,Apple Music,Morning,No,2,Yes,No
+45,Prefer not to say,Classical,3.0,SoundCloud,All Day,No,5,No,No
+23,Female,Rock,6.3,Amazon Music,Morning,No,2,No,No
+19,Male,R&B,7.5,Spotify,Night,No,2,Yes,No
+23,Prefer not to say,Pop,3.7,Spotify,Morning,No,5,Yes,Yes
+25,Non-binary,Country,1.0,Amazon Music,Evening,Yes,2,No,Yes
+25,Male,Classical,3.9,Spotify,Morning,Yes,5,Yes,Yes
+60,Male,R&B,0.8,Apple Music,Morning,No,1,Yes,No
+39,Male,Classical,5.9,Amazon Music,Afternoon,Yes,2,Yes,No
+27,Male,Hip-Hop,3.6,Spotify,All Day,Yes,5,Yes,No
+42,Prefer not to say,Jazz,5.8,YouTube,Evening,Yes,4,No,Yes
+38,Prefer not to say,Jazz,3.4,Amazon Music,Night,Yes,2,No,Yes
+29,Non-binary,Country,3.2,Spotify,All Day,No,4,No,No
+55,Female,Classical,7.0,SoundCloud,All Day,No,5,No,No
+35,Non-binary,Classical,3.4,Spotify,Afternoon,No,3,No,No
+30,Female,Country,7.4,SoundCloud,Evening,Yes,4,Yes,No
+16,Non-binary,Rock,2.0,SoundCloud,Evening,Yes,2,Yes,Yes
+26,Prefer not to say,Country,5.1,YouTube,Night,Yes,3,No,No
+36,Male,Jazz,2.1,SoundCloud,Morning,No,5,No,Yes
+55,Male,Rock,4.6,SoundCloud,Evening,Yes,2,No,Yes
+21,Non-binary,Pop,7.2,YouTube,Morning,Yes,2,Yes,No
+59,Female,Jazz,5.2,Apple Music,Evening,Yes,5,Yes,Yes
+16,Non-binary,Pop,4.1,Spotify,Morning,No,3,Yes,Yes
+19,Prefer not to say,R&B,4.9,Apple Music,Night,Yes,1,Yes,Yes
+59,Non-binary,Rock,4.5,SoundCloud,Morning,Yes,4,Yes,Yes
+50,Male,Electronic,2.0,Amazon Music,All Day,Yes,2,No,Yes
+34,Male,Electronic,5.2,Spotify,Afternoon,No,3,No,Yes
+45,Male,Classical,5.3,YouTube,Afternoon,Yes,3,Yes,No
+58,Prefer not to say,Country,7.5,Spotify,Evening,No,2,Yes,No
+48,Male,Hip-Hop,5.1,SoundCloud,Night,Yes,1,Yes,No
+56,Female,Electronic,3.1,SoundCloud,All Day,No,1,Yes,Yes
+18,Female,Classical,7.8,YouTube,Night,Yes,5,Yes,Yes
+28,Male,Country,1.0,Amazon Music,Evening,No,3,No,Yes
+29,Prefer not to say,Hip-Hop,5.1,Apple Music,Evening,No,4,No,Yes
+52,Prefer not to say,Classical,7.6,SoundCloud,All Day,Yes,5,No,Yes
+53,Female,Rock,3.3,Apple Music,All Day,Yes,3,Yes,No
+25,Female,Jazz,4.5,SoundCloud,Afternoon,Yes,1,No,No
+53,Female,Country,5.9,Spotify,Afternoon,Yes,5,Yes,Yes
+20,Female,Country,3.7,Amazon Music,Afternoon,Yes,3,No,Yes
+14,Female,Rock,1.9,Amazon Music,Afternoon,Yes,2,Yes,Yes
+46,Male,R&B,2.6,YouTube,Evening,Yes,2,No,Yes
+42,Prefer not to say,Jazz,1.3,Apple Music,Afternoon,No,4,No,Yes
+60,Prefer not to say,Classical,1.0,YouTube,Night,No,4,Yes,Yes
+49,Prefer not to say,Rock,6.6,SoundCloud,Evening,No,4,Yes,Yes
+37,Male,Jazz,5.6,YouTube,All Day,Yes,1,Yes,Yes
+39,Non-binary,Jazz,4.7,Amazon Music,Afternoon,Yes,1,Yes,No
+33,Prefer not to say,Hip-Hop,3.7,Apple Music,Morning,Yes,2,Yes,Yes
+52,Male,R&B,1.4,Amazon Music,Night,Yes,3,Yes,No
+35,Female,Pop,6.5,Amazon Music,Morning,Yes,3,Yes,No
+14,Non-binary,Pop,2.3,SoundCloud,Morning,No,4,Yes,Yes
+58,Prefer not to say,Electronic,1.6,SoundCloud,Morning,Yes,3,No,Yes
+18,Prefer not to say,Rock,6.0,SoundCloud,All Day,No,1,Yes,Yes
+29,Female,Classical,3.6,Amazon Music,All Day,No,2,No,Yes
+43,Male,Rock,5.1,Amazon Music,Night,No,5,Yes,Yes
+27,Female,Hip-Hop,5.7,Spotify,Evening,No,1,Yes,Yes
+23,Male,Electronic,1.8,SoundCloud,Afternoon,Yes,1,No,No
+34,Non-binary,Classical,2.1,Amazon Music,Evening,No,1,Yes,No
+55,Non-binary,Jazz,4.6,YouTube,Afternoon,Yes,4,Yes,No
+55,Male,Rock,1.8,Apple Music,All Day,Yes,4,Yes,Yes
+29,Prefer not to say,Jazz,3.8,Apple Music,Morning,Yes,4,No,No
+34,Male,Jazz,1.2,YouTube,Night,No,1,Yes,No
+40,Non-binary,Pop,3.8,Spotify,Afternoon,No,4,Yes,No
+32,Non-binary,R&B,4.7,SoundCloud,Morning,No,2,Yes,No
+52,Non-binary,Rock,2.5,Amazon Music,All Day,Yes,4,No,Yes
+27,Female,Jazz,2.1,Apple Music,Evening,Yes,3,No,No
+50,Prefer not to say,Hip-Hop,1.6,Spotify,All Day,No,3,No,No
+39,Non-binary,Classical,5.1,SoundCloud,Evening,Yes,4,No,No
+18,Prefer not to say,Pop,7.3,Apple Music,Morning,Yes,3,No,Yes
+45,Female,Pop,7.7,Spotify,Evening,No,2,Yes,No
+46,Prefer not to say,Pop,3.2,Amazon Music,Morning,No,3,Yes,Yes
+47,Non-binary,Jazz,1.2,SoundCloud,Afternoon,No,4,Yes,Yes
+35,Prefer not to say,Jazz,4.8,Amazon Music,Evening,Yes,2,Yes,No
+20,Female,Pop,7.5,Amazon Music,Morning,Yes,3,Yes,Yes
+34,Non-binary,Pop,7.3,Amazon Music,Evening,Yes,1,No,Yes
+25,Non-binary,Electronic,1.3,Amazon Music,Evening,No,2,Yes,No
+18,Prefer not to say,R&B,3.1,YouTube,Morning,Yes,3,Yes,No
+20,Prefer not to say,Hip-Hop,7.0,Apple Music,Morning,No,4,Yes,No
+23,Non-binary,R&B,0.8,Spotify,Evening,No,2,Yes,No
+33,Female,Rock,3.9,Spotify,Afternoon,Yes,1,No,Yes
+21,Female,Pop,7.7,YouTube,Afternoon,Yes,2,No,No
+41,Male,Pop,7.9,SoundCloud,Morning,No,3,Yes,Yes
+35,Male,Rock,2.2,Amazon Music,Morning,Yes,3,Yes,No
+36,Male,Hip-Hop,7.9,Amazon Music,Evening,No,5,Yes,Yes
+20,Male,Rock,7.0,SoundCloud,Morning,No,1,No,Yes
+39,Male,Country,0.7,Spotify,Afternoon,Yes,3,No,No
+37,Male,Electronic,3.0,Apple Music,All Day,No,4,No,No
+41,Female,Rock,2.1,YouTube,All Day,No,5,No,No
+52,Non-binary,R&B,2.1,Amazon Music,Morning,Yes,4,Yes,No
+36,Non-binary,Rock,2.5,YouTube,All Day,Yes,1,Yes,Yes
+39,Male,Classical,4.2,Apple Music,Night,Yes,5,Yes,No
+48,Male,Electronic,2.3,Spotify,Night,No,2,Yes,No
+52,Male,Country,6.5,Amazon Music,Afternoon,No,5,No,No
+45,Female,Hip-Hop,4.6,Spotify,Morning,Yes,5,No,No
+47,Non-binary,Jazz,7.2,SoundCloud,All Day,No,3,No,Yes
+43,Female,Country,6.9,SoundCloud,All Day,No,2,No,No
+51,Prefer not to say,Rock,7.0,Amazon Music,Afternoon,No,2,No,Yes
+14,Female,Electronic,1.5,YouTube,Morning,Yes,2,Yes,Yes
+41,Prefer not to say,Rock,4.8,Apple Music,Morning,Yes,3,Yes,Yes
+49,Prefer not to say,Electronic,4.6,YouTube,All Day,No,1,Yes,Yes
+24,Prefer not to say,R&B,7.1,SoundCloud,Night,Yes,1,No,Yes
+45,Prefer not to say,Country,3.9,Spotify,Afternoon,No,5,Yes,Yes
+29,Female,Hip-Hop,7.3,SoundCloud,Afternoon,No,5,No,No
+20,Prefer not to say,Hip-Hop,2.7,YouTube,Evening,Yes,2,No,Yes
+52,Non-binary,Electronic,5.3,SoundCloud,Night,Yes,3,Yes,No
+60,Non-binary,Pop,3.3,Amazon Music,Morning,No,4,No,No
+25,Non-binary,Hip-Hop,4.0,SoundCloud,All Day,No,4,Yes,No
+19,Male,Hip-Hop,3.6,Spotify,Night,No,1,Yes,No
+24,Non-binary,Hip-Hop,3.3,SoundCloud,Evening,No,2,No,Yes
+46,Female,Classical,3.8,Apple Music,Night,No,2,Yes,No
+40,Male,Country,6.2,Apple Music,Morning,Yes,1,Yes,No
+29,Prefer not to say,Country,7.2,SoundCloud,Afternoon,Yes,1,No,No
+55,Non-binary,Hip-Hop,5.4,Spotify,Night,No,2,Yes,Yes
+54,Non-binary,Pop,6.1,Spotify,Night,No,5,No,Yes
+33,Non-binary,Jazz,1.8,Amazon Music,All Day,Yes,1,Yes,Yes
+43,Prefer not to say,Classical,4.5,Apple Music,All Day,Yes,5,No,Yes
+38,Female,Hip-Hop,3.6,Apple Music,Night,Yes,1,No,No
+50,Prefer not to say,Electronic,5.2,YouTube,Night,Yes,1,Yes,No
+38,Prefer not to say,Country,5.2,Spotify,Evening,No,4,No,Yes
+18,Non-binary,Electronic,1.6,Spotify,Night,Yes,4,No,Yes
+28,Male,Pop,1.8,YouTube,Night,Yes,1,Yes,Yes
+38,Prefer not to say,Electronic,3.8,SoundCloud,Evening,Yes,4,Yes,No
+47,Male,Rock,4.5,Amazon Music,All Day,No,5,Yes,No
+39,Non-binary,Country,2.9,Spotify,Morning,Yes,5,No,No
+37,Male,Electronic,7.0,SoundCloud,Morning,No,3,Yes,No
+39,Male,Pop,3.2,Spotify,Afternoon,Yes,4,Yes,Yes
+19,Female,Country,3.1,YouTube,Afternoon,Yes,2,No,No
+44,Female,R&B,3.9,YouTube,All Day,Yes,3,Yes,No
+38,Prefer not to say,Electronic,7.7,SoundCloud,Evening,Yes,4,Yes,Yes
+41,Male,Jazz,5.4,Amazon Music,Morning,No,2,No,Yes
+16,Non-binary,Electronic,2.5,Apple Music,Afternoon,No,3,Yes,Yes
+45,Prefer not to say,R&B,2.1,Apple Music,Afternoon,Yes,3,No,No
+59,Prefer not to say,Hip-Hop,2.1,Spotify,All Day,Yes,2,Yes,No
+28,Female,Country,3.9,Apple Music,Morning,Yes,2,Yes,Yes
+60,Female,Jazz,5.6,SoundCloud,Night,Yes,4,Yes,Yes
+32,Female,R&B,1.9,Amazon Music,Afternoon,No,2,Yes,Yes
+42,Female,Hip-Hop,2.6,Apple Music,Evening,No,5,No,No
+25,Prefer not to say,Pop,3.4,YouTube,Morning,Yes,2,No,No
+60,Non-binary,Electronic,6.3,SoundCloud,Night,No,1,No,Yes
+56,Non-binary,Country,3.0,SoundCloud,All Day,Yes,4,Yes,No
+32,Male,Jazz,4.8,SoundCloud,Evening,Yes,2,Yes,No
+60,Female,Electronic,1.1,SoundCloud,Afternoon,No,1,Yes,Yes
+19,Male,Electronic,2.4,Apple Music,All Day,No,4,No,No
+55,Female,Electronic,4.8,Apple Music,Morning,Yes,2,No,No
+14,Male,Hip-Hop,4.0,Amazon Music,Afternoon,No,1,Yes,Yes
+35,Male,Jazz,2.0,Amazon Music,Afternoon,Yes,4,Yes,Yes
+40,Non-binary,Country,2.6,Spotify,Morning,Yes,4,No,No
+37,Prefer not to say,Rock,6.9,YouTube,Night,Yes,4,No,Yes
+38,Prefer not to say,Hip-Hop,6.2,Spotify,Afternoon,Yes,5,Yes,Yes
+30,Non-binary,Electronic,6.7,SoundCloud,Morning,Yes,2,No,Yes
+32,Female,Rock,7.5,YouTube,Afternoon,No,3,No,Yes
+22,Prefer not to say,Classical,7.7,SoundCloud,Night,Yes,4,Yes,No
+48,Non-binary,Classical,7.4,Apple Music,Morning,No,2,No,Yes
+24,Female,Rock,5.9,Apple Music,Night,No,1,No,Yes
+14,Prefer not to say,Rock,7.4,YouTube,Morning,Yes,5,Yes,No
+53,Prefer not to say,Country,6.3,Spotify,Afternoon,Yes,1,Yes,Yes
+60,Male,Hip-Hop,6.5,SoundCloud,Morning,No,3,No,No
+29,Non-binary,Electronic,6.6,Spotify,Afternoon,No,2,No,Yes
+18,Prefer not to say,Electronic,1.8,Apple Music,Afternoon,Yes,5,Yes,Yes
+16,Prefer not to say,Jazz,6.5,YouTube,All Day,No,4,No,Yes
+17,Non-binary,Pop,1.8,Spotify,Morning,No,4,No,Yes
+36,Non-binary,Jazz,3.9,Amazon Music,All Day,No,5,Yes,No
+30,Male,Classical,6.6,Apple Music,Night,Yes,1,Yes,Yes
+25,Female,Electronic,6.0,YouTube,Morning,Yes,1,No,Yes
+13,Female,R&B,5.2,YouTube,All Day,No,3,No,No
+48,Prefer not to say,Classical,0.8,Spotify,All Day,No,5,No,No
+39,Female,Hip-Hop,6.8,SoundCloud,All Day,Yes,3,No,No
+46,Non-binary,Pop,2.8,SoundCloud,Morning,Yes,5,Yes,Yes
+23,Non-binary,Country,1.4,SoundCloud,Afternoon,Yes,3,Yes,Yes
+50,Male,Classical,5.7,Amazon Music,Evening,No,5,No,No
+51,Non-binary,Rock,2.4,Spotify,Afternoon,Yes,3,No,Yes
+44,Prefer not to say,Classical,0.8,Amazon Music,Morning,No,5,Yes,Yes
+57,Non-binary,Rock,6.3,Apple Music,Morning,No,4,Yes,No
+52,Non-binary,R&B,1.5,Apple Music,All Day,Yes,1,No,Yes
+39,Prefer not to say,R&B,3.2,YouTube,Afternoon,Yes,1,Yes,Yes
+30,Female,Classical,3.8,Amazon Music,Night,No,2,Yes,Yes
+25,Non-binary,Rock,5.6,YouTube,Evening,No,5,No,Yes
+32,Female,Country,5.2,Apple Music,Evening,No,1,No,Yes
+46,Non-binary,Classical,3.6,Amazon Music,Afternoon,No,1,Yes,Yes
+39,Male,Classical,5.9,Spotify,Afternoon,Yes,5,Yes,No
+42,Non-binary,Pop,6.4,SoundCloud,Night,No,4,Yes,No
+17,Non-binary,Jazz,2.7,YouTube,Evening,No,2,Yes,No
+40,Male,Jazz,6.4,Amazon Music,All Day,Yes,3,Yes,No
+39,Prefer not to say,Jazz,1.6,Amazon Music,Morning,No,3,Yes,Yes
+55,Female,Pop,7.6,Spotify,Night,Yes,4,Yes,No
+18,Female,R&B,7.9,Apple Music,Morning,Yes,5,No,No
+40,Non-binary,R&B,4.5,Apple Music,Morning,No,1,No,Yes
+18,Female,Classical,2.0,Apple Music,Evening,Yes,1,Yes,Yes
+17,Prefer not to say,Electronic,0.5,SoundCloud,Morning,No,4,Yes,No
+55,Non-binary,R&B,7.6,Amazon Music,All Day,Yes,2,Yes,No
+59,Female,Pop,4.8,Apple Music,Night,Yes,4,Yes,Yes
+44,Female,Hip-Hop,6.3,Apple Music,Afternoon,No,2,Yes,Yes
+22,Non-binary,Country,2.8,Amazon Music,All Day,No,1,Yes,No
+15,Non-binary,R&B,0.8,Apple Music,Evening,No,2,Yes,No
+39,Female,Rock,3.5,Spotify,All Day,No,4,Yes,No
+23,Female,R&B,4.5,Amazon Music,All Day,No,5,No,No
+52,Male,Electronic,1.1,SoundCloud,Afternoon,No,3,No,Yes
+42,Male,Pop,0.7,Amazon Music,Evening,Yes,2,No,No
+42,Prefer not to say,Country,7.7,SoundCloud,Evening,No,4,Yes,Yes
+35,Female,R&B,3.2,YouTube,Afternoon,Yes,3,No,Yes
+57,Female,Rock,3.0,Apple Music,Afternoon,No,1,Yes,Yes
+42,Prefer not to say,Electronic,5.7,Amazon Music,Morning,Yes,3,No,No
+50,Male,Rock,7.2,SoundCloud,Morning,Yes,5,No,Yes
+56,Male,Pop,4.5,Spotify,Morning,Yes,3,No,No
+28,Non-binary,Jazz,3.9,SoundCloud,Evening,No,4,No,Yes
+45,Male,Rock,6.0,Amazon Music,Afternoon,No,3,Yes,No
+50,Female,Country,7.1,Amazon Music,All Day,No,2,Yes,Yes
+18,Female,Hip-Hop,3.1,YouTube,Afternoon,Yes,5,Yes,Yes
+47,Non-binary,Hip-Hop,4.2,Amazon Music,Morning,No,2,Yes,No
+26,Non-binary,Pop,0.8,Spotify,Evening,Yes,4,No,No
+19,Non-binary,Pop,6.7,SoundCloud,All Day,Yes,2,Yes,Yes
+16,Female,Jazz,6.3,Amazon Music,Evening,No,2,No,No
+60,Non-binary,Electronic,7.2,SoundCloud,Night,Yes,5,No,No
+47,Prefer not to say,Country,7.4,Spotify,Afternoon,No,5,Yes,Yes
+59,Prefer not to say,Electronic,7.1,Spotify,Afternoon,Yes,2,No,No
+30,Non-binary,Country,1.2,Amazon Music,Morning,Yes,2,Yes,No
+21,Non-binary,Jazz,7.8,SoundCloud,Night,Yes,4,Yes,Yes
+45,Non-binary,Hip-Hop,2.6,Apple Music,Night,Yes,4,No,Yes
+40,Prefer not to say,Rock,4.2,Apple Music,Evening,No,1,Yes,No
+32,Non-binary,Pop,5.5,Spotify,Night,Yes,4,No,No
+38,Prefer not to say,R&B,3.9,SoundCloud,Night,Yes,1,Yes,No
+42,Female,Hip-Hop,1.8,Apple Music,Morning,Yes,5,Yes,Yes
+41,Prefer not to say,Jazz,3.1,Amazon Music,Morning,Yes,2,No,No
+25,Prefer not to say,Jazz,2.6,Amazon Music,Afternoon,Yes,1,Yes,Yes
+52,Non-binary,Jazz,1.9,SoundCloud,Evening,No,1,Yes,No
+49,Prefer not to say,Electronic,1.0,YouTube,Night,No,5,No,No
+48,Prefer not to say,Electronic,4.1,SoundCloud,Night,Yes,1,No,No
+27,Female,Classical,4.1,Spotify,Afternoon,No,1,No,Yes
+18,Prefer not to say,R&B,5.5,YouTube,Afternoon,Yes,1,Yes,No
+57,Female,Electronic,4.7,YouTube,Evening,No,5,No,No
+28,Prefer not to say,Pop,4.8,Spotify,Evening,Yes,5,Yes,Yes
+38,Prefer not to say,Pop,4.7,YouTube,Afternoon,No,3,No,Yes
+18,Prefer not to say,Pop,2.8,Spotify,Afternoon,Yes,3,Yes,No
+57,Female,Classical,6.5,Spotify,Night,Yes,5,Yes,Yes
+24,Female,Pop,5.5,SoundCloud,All Day,No,4,No,No
+22,Female,Electronic,3.8,SoundCloud,Afternoon,No,2,No,Yes
+15,Female,Pop,5.3,Spotify,Night,Yes,4,No,No
+23,Female,Country,2.8,Apple Music,Evening,Yes,2,No,Yes
+53,Prefer not to say,R&B,1.9,Apple Music,All Day,Yes,3,No,No
+46,Female,Electronic,4.2,Amazon Music,Evening,No,3,Yes,Yes
+43,Female,R&B,7.9,Apple Music,Evening,No,5,Yes,Yes
+33,Female,Country,4.5,Spotify,All Day,Yes,2,Yes,No
+17,Male,Pop,1.4,Amazon Music,Afternoon,No,2,Yes,Yes
+59,Non-binary,Electronic,7.6,SoundCloud,Evening,Yes,5,No,No
+44,Non-binary,Hip-Hop,1.6,Amazon Music,Night,Yes,5,Yes,Yes
+56,Male,Pop,1.6,SoundCloud,Afternoon,No,1,Yes,No
+47,Prefer not to say,R&B,1.1,Amazon Music,Evening,Yes,2,No,No
+41,Male,Jazz,5.1,Apple Music,All Day,Yes,3,Yes,No
+38,Male,Pop,5.7,Apple Music,Night,Yes,3,No,No
+37,Non-binary,Classical,5.9,YouTube,Evening,Yes,3,Yes,No
+34,Female,Country,4.0,Spotify,Morning,No,1,No,Yes
+53,Non-binary,Classical,4.1,Amazon Music,Night,No,1,No,No
+16,Male,R&B,2.9,YouTube,All Day,Yes,5,Yes,No
+26,Male,R&B,7.2,YouTube,Night,No,5,Yes,Yes
+50,Female,Rock,6.3,YouTube,Morning,No,3,No,No
+34,Female,Classical,1.4,Spotify,Night,Yes,1,No,No
+45,Non-binary,Country,1.1,YouTube,Evening,No,2,No,No
+25,Male,Rock,2.3,Spotify,All Day,No,1,Yes,No
+41,Non-binary,R&B,2.1,Spotify,Evening,No,1,No,No
+46,Male,Electronic,4.7,YouTube,Night,Yes,4,Yes,Yes
+52,Non-binary,Country,5.3,Spotify,Evening,Yes,2,No,Yes
+56,Female,R&B,1.0,SoundCloud,Evening,No,1,Yes,No
+58,Male,Country,2.7,Spotify,Morning,No,1,No,Yes
+30,Non-binary,Hip-Hop,8.0,YouTube,Afternoon,Yes,4,Yes,Yes
+27,Female,Hip-Hop,7.5,SoundCloud,Afternoon,No,4,No,No
+16,Male,R&B,2.7,Apple Music,Morning,Yes,3,Yes,No
+53,Male,Country,3.9,SoundCloud,Evening,No,1,Yes,Yes
+51,Male,Classical,7.8,Amazon Music,All Day,No,3,Yes,No
+36,Non-binary,Country,8.0,Apple Music,Morning,Yes,5,No,No
+59,Male,Electronic,7.6,Amazon Music,Evening,Yes,2,Yes,Yes
+56,Male,Electronic,3.9,Spotify,Afternoon,Yes,1,Yes,Yes
+32,Male,Hip-Hop,5.8,Spotify,Evening,No,5,Yes,No
+52,Female,Rock,1.7,YouTube,All Day,Yes,2,No,Yes
+36,Prefer not to say,R&B,5.3,SoundCloud,Evening,No,4,No,No
+51,Female,R&B,5.6,SoundCloud,Evening,Yes,3,No,No
+37,Prefer not to say,Country,0.7,Amazon Music,Afternoon,Yes,3,No,No
+49,Prefer not to say,Rock,6.6,SoundCloud,Evening,Yes,3,Yes,Yes
+13,Male,Rock,6.6,YouTube,Morning,Yes,1,No,Yes
+41,Female,Pop,7.3,Amazon Music,Morning,No,2,No,Yes
+25,Female,Jazz,7.1,Apple Music,Afternoon,No,5,Yes,No
+18,Prefer not to say,Pop,7.1,Apple Music,All Day,No,1,No,No
+20,Prefer not to say,Jazz,4.9,Amazon Music,Evening,Yes,2,No,No
+14,Male,Country,3.9,Amazon Music,All Day,No,2,No,Yes
+52,Non-binary,Hip-Hop,2.3,YouTube,Night,No,1,No,No
+32,Non-binary,Classical,1.1,Spotify,Morning,No,5,No,Yes
+22,Non-binary,Jazz,4.3,Amazon Music,All Day,Yes,4,No,Yes
+47,Female,Pop,7.4,YouTube,Evening,No,1,No,No
+17,Prefer not to say,Pop,5.2,SoundCloud,All Day,No,3,No,No
+57,Male,Country,2.2,Amazon Music,Night,No,5,No,No
+42,Male,Country,1.3,SoundCloud,All Day,Yes,4,Yes,Yes
+15,Non-binary,Jazz,8.0,SoundCloud,All Day,No,2,No,Yes
+24,Female,Electronic,2.7,YouTube,Night,Yes,1,Yes,No
+52,Female,Classical,7.0,Spotify,All Day,No,2,No,Yes
+56,Non-binary,Classical,1.0,YouTube,Morning,No,4,Yes,No
+26,Male,Jazz,1.7,Apple Music,All Day,Yes,4,Yes,No
+27,Male,Electronic,7.4,Apple Music,Evening,No,3,No,No
+35,Female,Electronic,5.8,YouTube,All Day,Yes,5,No,No
+32,Non-binary,Pop,1.8,Apple Music,All Day,No,3,Yes,No
+50,Non-binary,R&B,2.6,YouTube,Afternoon,No,2,Yes,No
+28,Non-binary,Classical,5.1,Spotify,All Day,Yes,4,No,No
+24,Prefer not to say,Classical,7.9,YouTube,Night,No,1,No,No
+32,Male,R&B,3.4,YouTube,Night,Yes,4,No,No
+30,Female,Country,1.6,YouTube,All Day,Yes,3,Yes,Yes
+47,Male,Classical,2.2,Spotify,Night,Yes,2,Yes,No
+13,Prefer not to say,Country,4.5,Spotify,Evening,Yes,4,No,Yes
+16,Male,R&B,7.8,Amazon Music,Afternoon,No,4,No,No
+18,Male,Classical,3.5,Spotify,All Day,No,1,No,No
+60,Prefer not to say,Electronic,6.9,YouTube,All Day,Yes,3,Yes,No
+53,Male,Pop,1.9,Apple Music,Afternoon,Yes,2,Yes,Yes
+35,Non-binary,R&B,2.4,Apple Music,Night,No,3,No,No
+40,Non-binary,Jazz,4.9,Amazon Music,Evening,No,5,No,Yes
+27,Prefer not to say,Hip-Hop,3.6,YouTube,Evening,Yes,3,No,Yes
+54,Prefer not to say,Rock,2.0,SoundCloud,Afternoon,Yes,1,No,No
+58,Non-binary,Classical,4.4,SoundCloud,Afternoon,No,4,Yes,No
+38,Female,Pop,2.1,Amazon Music,All Day,No,3,Yes,No
+39,Prefer not to say,Pop,7.6,SoundCloud,Afternoon,No,2,No,Yes
+40,Prefer not to say,Jazz,2.9,Spotify,Night,Yes,3,No,Yes
+22,Male,Classical,2.0,YouTube,Evening,No,1,No,No
+32,Female,Electronic,3.5,Amazon Music,Afternoon,No,2,Yes,No
+39,Prefer not to say,Rock,4.9,YouTube,Morning,No,1,Yes,No
+55,Male,Hip-Hop,4.1,Amazon Music,Morning,Yes,3,Yes,Yes
+42,Prefer not to say,Rock,1.8,Apple Music,Night,No,3,No,No
+46,Male,Country,1.3,SoundCloud,All Day,No,2,No,Yes
+47,Prefer not to say,Electronic,6.3,Spotify,Morning,No,1,Yes,Yes
+27,Prefer not to say,Classical,1.8,SoundCloud,Evening,Yes,5,No,Yes
+13,Male,Hip-Hop,3.6,Spotify,Night,No,1,Yes,No
+56,Female,Electronic,5.4,Amazon Music,All Day,No,3,Yes,Yes
+47,Male,Pop,7.2,Amazon Music,All Day,Yes,4,Yes,No
+38,Female,Rock,2.2,SoundCloud,Morning,Yes,5,No,No
+49,Prefer not to say,Classical,5.4,Amazon Music,Night,Yes,4,Yes,No
+14,Female,Jazz,2.5,Apple Music,All Day,No,4,Yes,No
+34,Non-binary,Pop,4.4,Spotify,All Day,Yes,1,No,Yes
+43,Non-binary,Country,5.5,YouTube,Evening,Yes,4,No,Yes
+59,Male,Rock,2.3,Amazon Music,Morning,No,5,No,Yes
+53,Male,Electronic,2.9,Amazon Music,Evening,Yes,3,No,Yes
+43,Non-binary,R&B,5.3,Apple Music,Night,Yes,4,Yes,No
+35,Non-binary,Hip-Hop,3.0,Amazon Music,Morning,Yes,3,Yes,Yes
+58,Male,Classical,5.7,Amazon Music,Afternoon,No,3,No,Yes
+26,Female,Pop,6.2,Apple Music,Night,No,1,No,Yes
+36,Non-binary,Rock,3.5,Apple Music,Evening,Yes,1,No,No
+54,Prefer not to say,Rock,1.7,YouTube,Morning,No,3,Yes,Yes
+54,Prefer not to say,R&B,7.4,Apple Music,Afternoon,No,5,No,No
+47,Non-binary,Electronic,2.5,SoundCloud,All Day,No,1,Yes,No
+37,Non-binary,Pop,5.0,SoundCloud,Night,No,1,No,No
+60,Non-binary,Classical,7.5,Amazon Music,Night,No,3,No,Yes
+47,Female,Electronic,4.9,SoundCloud,Afternoon,Yes,3,Yes,Yes
+53,Male,Rock,5.4,Amazon Music,Morning,No,3,No,No
+60,Female,Electronic,5.2,Amazon Music,Afternoon,No,2,Yes,Yes
+50,Non-binary,Country,2.0,SoundCloud,Morning,Yes,5,No,No
+50,Female,Hip-Hop,4.2,YouTube,Morning,Yes,3,Yes,No
+34,Male,Classical,3.8,Amazon Music,Afternoon,No,1,Yes,Yes
+17,Male,Jazz,4.4,Apple Music,Evening,Yes,3,No,No
+50,Female,Pop,5.6,SoundCloud,Night,Yes,3,No,No
+19,Male,Country,7.2,Amazon Music,Afternoon,No,2,Yes,No
+27,Female,Pop,7.3,SoundCloud,All Day,Yes,4,No,Yes
+48,Female,Electronic,5.1,Apple Music,Night,Yes,2,Yes,No
+30,Male,Pop,2.3,Amazon Music,All Day,Yes,3,No,Yes
+54,Female,Rock,5.4,YouTube,All Day,Yes,5,Yes,Yes
+34,Female,Pop,4.8,SoundCloud,Evening,No,2,Yes,No
+45,Non-binary,Jazz,2.8,Spotify,Morning,Yes,2,Yes,No
+53,Prefer not to say,Rock,7.0,SoundCloud,Night,No,3,Yes,No
+52,Non-binary,Hip-Hop,2.0,SoundCloud,Evening,No,5,Yes,Yes
+26,Female,Rock,4.5,SoundCloud,Night,Yes,4,Yes,Yes
+29,Non-binary,Pop,6.4,YouTube,Night,No,4,Yes,No
+19,Non-binary,Country,1.8,SoundCloud,Evening,No,1,No,No
+46,Prefer not to say,Electronic,1.6,Spotify,Morning,No,4,Yes,Yes
+27,Female,Pop,0.8,Spotify,Afternoon,No,5,Yes,No
+32,Prefer not to say,Country,6.4,Amazon Music,Morning,No,1,No,Yes
+47,Male,Pop,7.6,Amazon Music,All Day,Yes,2,No,No
+25,Prefer not to say,Jazz,3.2,Amazon Music,All Day,Yes,5,Yes,Yes
+22,Non-binary,Hip-Hop,5.5,SoundCloud,Morning,Yes,5,No,No
+15,Female,Country,6.5,YouTube,All Day,No,2,Yes,Yes
+41,Male,Country,2.8,Apple Music,Afternoon,Yes,1,Yes,No
+14,Prefer not to say,Jazz,2.5,YouTube,Night,Yes,5,No,No
+40,Male,R&B,5.3,YouTube,Afternoon,No,1,No,Yes
+54,Prefer not to say,Classical,4.4,Apple Music,Evening,Yes,5,Yes,Yes
+56,Non-binary,Jazz,4.7,SoundCloud,Evening,Yes,5,Yes,Yes
+26,Male,Pop,6.2,Spotify,Night,Yes,3,No,No
+20,Female,R&B,1.3,SoundCloud,All Day,Yes,3,No,No
+49,Male,R&B,5.3,YouTube,Night,Yes,2,No,No
+46,Non-binary,Hip-Hop,3.9,Apple Music,Evening,No,1,Yes,No
+17,Prefer not to say,R&B,4.9,YouTube,Afternoon,Yes,3,Yes,Yes
+29,Non-binary,Hip-Hop,7.1,YouTube,All Day,Yes,5,No,No
+30,Prefer not to say,Electronic,2.0,Spotify,All Day,Yes,3,Yes,No
+56,Non-binary,Classical,7.1,YouTube,Afternoon,No,5,Yes,Yes
+46,Non-binary,R&B,2.7,Apple Music,All Day,Yes,1,Yes,No
+31,Male,Hip-Hop,4.3,Apple Music,Night,No,4,Yes,Yes
+55,Female,Electronic,2.1,Amazon Music,Night,Yes,5,Yes,Yes
+25,Non-binary,Electronic,7.2,Spotify,Morning,No,2,Yes,Yes
+26,Female,Hip-Hop,2.1,Spotify,All Day,No,3,Yes,Yes
+36,Non-binary,R&B,1.0,YouTube,All Day,Yes,3,No,No
+32,Prefer not to say,R&B,4.9,Amazon Music,Night,No,4,No,No
+46,Female,Classical,3.0,SoundCloud,Night,Yes,2,Yes,Yes
+45,Female,Electronic,8.0,Apple Music,Afternoon,Yes,3,No,No
+14,Prefer not to say,Electronic,0.9,Apple Music,Morning,Yes,1,Yes,Yes
+58,Prefer not to say,Classical,5.1,Apple Music,Night,No,1,Yes,No
+13,Female,Hip-Hop,2.3,YouTube,Evening,Yes,1,No,No
+16,Non-binary,Rock,1.0,YouTube,Afternoon,Yes,3,No,No
+51,Female,Electronic,2.6,Spotify,Morning,Yes,5,No,Yes
+34,Female,R&B,4.2,Spotify,Morning,Yes,4,No,Yes
+56,Male,Jazz,1.0,Spotify,Morning,No,2,Yes,No
+51,Prefer not to say,R&B,6.4,YouTube,Morning,No,5,No,Yes
+53,Male,Country,6.9,SoundCloud,Morning,No,2,Yes,Yes
+43,Non-binary,Pop,4.8,SoundCloud,Evening,No,2,No,Yes
+56,Non-binary,R&B,4.2,Apple Music,All Day,No,5,No,No
+39,Male,Hip-Hop,6.2,YouTube,All Day,Yes,2,Yes,Yes
+24,Non-binary,Classical,7.5,SoundCloud,Night,No,4,Yes,No
+26,Male,Electronic,4.4,Apple Music,Evening,Yes,1,Yes,No
+27,Non-binary,Rock,7.2,Spotify,All Day,No,5,Yes,No
+25,Male,Electronic,6.2,Spotify,All Day,No,3,No,No
+46,Male,Hip-Hop,0.6,SoundCloud,Evening,No,2,No,Yes
+45,Male,Classical,5.2,Amazon Music,All Day,No,1,No,No
+31,Male,Hip-Hop,5.0,Amazon Music,Morning,Yes,2,No,No
+30,Prefer not to say,Jazz,3.0,YouTube,Evening,No,1,No,Yes
+57,Non-binary,R&B,6.0,Apple Music,Morning,Yes,1,Yes,Yes
