@@ -14,5 +14,5 @@ This project uses SQL to analyze the most liked music genre in percentage.
 -What genre should a music app like Spotify, Apple Music, Youtube Music recommend to a user based on their age and gender?
 
 
-Result
+
 
