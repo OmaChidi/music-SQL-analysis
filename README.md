@@ -13,4 +13,4 @@ This project uses SQL to analyze the most liked music genre in percentage.
 -What genre is popular amongst teens?
 -What genre should a music app like Spotify, Apple Music, Youtube Music recommend to a user based on their age and gender?
 
-
+RESULT:  https://genre-insight-explorer.lovable.app
